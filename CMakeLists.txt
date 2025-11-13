@@ -9,4 +9,5 @@ add_executable(week12_lab1 problem1.cpp
         problem4.cpp
         problem5.cpp
         problem7.cpp
-        problem9.cpp)
+        problem9.cpp
+        problem6.cpp)
